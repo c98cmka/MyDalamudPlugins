@@ -1,0 +1,19 @@
+{
+  "Author": "0x",
+  "Name": "Flash",
+  "InternalName": "Flash",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "teleport"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/c98cmka/Flash/master/icon.png",
+  "Punchline": "Flash to everywhere you want.",
+  "AcceptsFeedback": true
+}

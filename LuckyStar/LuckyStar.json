@@ -1,0 +1,19 @@
+{
+  "Author": "0x",
+  "Name": "LuckyStar",
+  "InternalName": "LuckyStar",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "woc！触发组！",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "RankS",
+    "Fate"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自动农怪/刷fate（需安装nvavmesh及RotationSolver）",
+  "AcceptsFeedback": true
+}
