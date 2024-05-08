@@ -1,0 +1,15 @@
+{
+  "Author": "0x",
+  "Name": "SkyEye",
+  "InternalName": "SkyEye",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "优雷卡雷达",
+  "AcceptsFeedback": false
+}

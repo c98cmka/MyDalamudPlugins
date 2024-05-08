@@ -52,5 +52,23 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+	    {
+        "Author": "c98cmka",
+        "Name": "SkyEye",
+        "InternalName": "SkyEye",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "优雷卡雷达",
+        "ApplicableVersion": "any",
+        "Tags": null,
+        "DalamudApiLevel": 9,
+        "Punchline": "优雷卡雷达",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/master/SkyEye/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/master/SkyEye/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/master/SkyEye/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
