@@ -10,6 +10,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "优雷卡雷达",
-  "AcceptsFeedback": false
+  "Punchline": "Eureka优雷卡雷达",
+  "AcceptsFeedback": true
 }
