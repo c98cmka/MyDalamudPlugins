@@ -15,8 +15,8 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/c98cmka/MyDalamudP
 
 | 名称 | 游戏版本 | TAG |
 |----------|----------|----------|
-| [0xPvpPlugin](https://github.com/c98cmka/0xPvpPlugin) | 6.51 | PVP |
-| [FrontlineRadar](https://github.com/c98cmka/FrontlineRadar) | 6.51 | PvPRadar |
-| [LuckyStar](https://github.com/c98cmka/LuckyStar) | 6.51 | HUNT/FATE |
-| [Flash](https://github.com/c98cmka/Flash) | 6.51 | MOVEMENT |
-| [SkyEye](https://github.com/c98cmka/SkyEye) | 6.51 | EurekaRadar |
+| [0xPvpPlugin](https://github.com/c98cmka/0xPvpPlugin) | 6.55 | PVP |
+| [FrontlineRadar](https://github.com/c98cmka/FrontlineRadar) | 6.55 | PvPRadar |
+| [LuckyStar](https://github.com/c98cmka/LuckyStar) | 6.55 | HUNT/FATE |
+| [Flash](https://github.com/c98cmka/Flash) | 6.55 | MOVEMENT |
+| [SkyEye](https://github.com/c98cmka/SkyEye) | 6.55 | EurekaRadar |
