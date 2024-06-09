@@ -2,7 +2,7 @@
   "Author": "0x",
   "Name": "0xPvpPlugin",
   "InternalName": "0xPvpPlugin",
-  "AssemblyVersion": "1.4.0.0",
+  "AssemblyVersion": "1.4.1.0",
   "Description": "",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
