@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/FrontlineRadar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/FrontlineRadar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718006775"
+        "LastUpdate": "1718291417"
     },
     {
         "Author": "0x",
@@ -35,7 +35,7 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/LuckyStar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/LuckyStar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718006775"
+        "LastUpdate": "1718291417"
     },
     {
         "Author": "0x",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718006775"
+        "LastUpdate": "1718291417"
     },
     {
         "Author": "0x",
@@ -60,7 +60,7 @@
         "Punchline": "獭獭战场助手",
         "Description": "",
         "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.4.1.0",
+        "AssemblyVersion": "1.4.2.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadLinkInstall": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
@@ -69,7 +69,7 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718006775"
+        "LastUpdate": "1718291417"
     },
     {
         "Author": "0x",
@@ -90,6 +90,6 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/Flash/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/Flash/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718006775"
+        "LastUpdate": "1718291417"
     }
 ]
