@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/FrontlineRadar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/FrontlineRadar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718291417"
+        "LastUpdate": "1718514036"
     },
     {
         "Author": "0x",
@@ -35,24 +35,25 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/LuckyStar/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/LuckyStar/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718291417"
+        "LastUpdate": "1718514036"
     },
     {
         "Author": "0x",
         "Name": "SkyEye",
         "Punchline": "Eureka优雷卡雷达",
-        "Description": "",
+        "Description": "优雷卡雷达、兔子宝箱定位、图内加速",
         "InternalName": "SkyEye",
-        "AssemblyVersion": "1.1.7.0",
+        "AssemblyVersion": "1.2.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/c98cmka/SkyEye/master/icon.png",
         "DownloadLinkInstall": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/SkyEye/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718291417"
+        "LastUpdate": "1718514036"
     },
     {
         "Author": "0x",
@@ -63,13 +64,14 @@
         "AssemblyVersion": "1.4.2.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
         "DownloadLinkInstall": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/0xPvpPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718291417"
+        "LastUpdate": "1718514036"
     },
     {
         "Author": "0x",
@@ -90,6 +92,6 @@
         "DownloadLinkTesting": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/Flash/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/MyDalamudPlugins/raw/main/plugins/Flash/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1718291417"
+        "LastUpdate": "1718514036"
     }
 ]
