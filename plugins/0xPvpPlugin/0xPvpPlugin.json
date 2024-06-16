@@ -2,15 +2,11 @@
   "Author": "0x",
   "Name": "0xPvpPlugin",
   "InternalName": "0xPvpPlugin",
-  "AssemblyVersion": "1.4.2.0",
+  "AssemblyVersion": "1.4.3.0",
   "Description": "",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-  "Punchline": "獭獭战场助手",
-  "AcceptsFeedback": false
+  "Punchline": "獭獭战场助手"
 }
