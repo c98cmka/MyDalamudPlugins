@@ -5,6 +5,7 @@
   "AssemblyVersion": "1.4.3.0",
   "Description": "",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
   "DalamudApiLevel": 9,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",

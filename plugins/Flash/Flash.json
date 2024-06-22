@@ -2,18 +2,16 @@
   "Author": "0x",
   "Name": "Flash",
   "InternalName": "Flash",
-  "AssemblyVersion": "1.1.0.0",
-  "Description": "",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "瞬移但是限制较多",
   "ApplicableVersion": "any",
-  "Tags": [
-    "teleport"
-  ],
+  "RepoUrl": "https://github.com/c98cmka/Flash",
   "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/c98cmka/Flash/master/icon.png",
-  "Punchline": "Flash to everywhere you want.",
+  "Punchline": "闪现撞墙",
   "AcceptsFeedback": true
 }
