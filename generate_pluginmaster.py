@@ -1,12 +1,11 @@
 import json
 import os
+import requests
 from time import time
 from sys import argv
-from os.path import getmtime
-from zipfile import ZipFile, ZIP_DEFLATED
 
-BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/c98cmka/MyDalamudPlugins/raw/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
+GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
 
 DEFAULTS = {
     'IsHide': False,
@@ -29,13 +28,14 @@ TRIMMED_KEYS = [
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
+    'CategoryTags',
     'DalamudApiLevel',
     'IconUrl',
     'ImageUrls',
 ]
 
 def main():
-    # extract the manifests from inside the zip files
+    # extract the manifests from the repository
     master = extract_manifests()
 
     # trim the manifests
@@ -44,30 +44,29 @@ def main():
     # convert the list of manifests into a master list
     add_extra_fields(master)
 
+    # update LastUpdate fields
+    get_last_updated_times(master)
+
     # write the master
     write_master(master)
-
-    # update the LastUpdate field in master
-    last_update()
 
 def extract_manifests():
     manifests = []
 
     for dirpath, dirnames, filenames in os.walk('./plugins'):
-        if len(filenames) == 0 or 'latest.zip' not in filenames:
-            continue
         plugin_name = dirpath.split('/')[-1]
-        latest_zip = f'{dirpath}/latest.zip'
-        with ZipFile(latest_zip) as z:
-            manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8'))
+        if len(filenames) == 0 or f'{plugin_name}.json' not in filenames:
+            continue
+        with open(f'{dirpath}/{plugin_name}.json', 'r') as f:
+            manifest = json.load(f)
             manifests.append(manifest)
 
     return manifests
 
 def add_extra_fields(manifests):
     for manifest in manifests:
-        # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
+        # generate the download link
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest['RepoUrl'], manifest['AssemblyVersion'])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -77,7 +76,34 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = 0
+        manifest['DownloadCount'] = get_release_download_count('c98cmka', manifest["InternalName"], manifest['AssemblyVersion'])
+
+def get_release_download_count(username, repo, id):
+    r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
+    if r.status_code == 200:
+        data = r.json()
+        total = 0
+        for asset in data['assets']:
+            total += asset['download_count']
+        return total
+    else:
+        return 0
+    
+def get_last_updated_times(manifests):
+    with open('pluginmaster.json', 'r') as f:
+        previous_manifests = json.load(f)
+
+        for manifest in manifests:
+            manifest['LastUpdate'] = str(int(time()))
+
+            for previous_manifest in previous_manifests:
+                if manifest['InternalName'] != previous_manifest['InternalName']:
+                    continue
+
+                if manifest['AssemblyVersion'] == previous_manifest['AssemblyVersion']:
+                    manifest['LastUpdate'] = previous_manifest['LastUpdate']
+
+                break
 
 def write_master(master):
     # write as pretty json
@@ -86,20 +112,6 @@ def write_master(master):
 
 def trim_manifest(plugin):
     return {k: plugin[k] for k in TRIMMED_KEYS if k in plugin}
-
-def last_update():
-    with open('pluginmaster.json', encoding='utf-8') as f:
-        master = json.load(f)
-
-    for plugin in master:
-        latest = f'plugins/{plugin["InternalName"]}/latest.zip'
-        modified = int(getmtime(latest))
-
-        if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
-            plugin['LastUpdate'] = str(modified)
-
-    with open('pluginmaster.json', 'w', encoding='utf-8') as f:
-        json.dump(master, f, indent=4, ensure_ascii=False)
 
 if __name__ == '__main__':
     main()
