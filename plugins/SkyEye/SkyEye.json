@@ -1,0 +1,17 @@
+{
+  "Author": "0x",
+  "Name": "SkyEye",
+  "InternalName": "SkyEye",
+  "AssemblyVersion": "1.2.1.0",
+  "Description": "优雷卡雷达、兔子宝箱定位、图内加速",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/c98cmka/SkyEye",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/c98cmka/SkyEye/master/icon.png",
+  "Punchline": "Eureka优雷卡雷达",
+  "AcceptsFeedback": true
+}
