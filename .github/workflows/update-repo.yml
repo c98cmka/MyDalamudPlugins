@@ -1,7 +1,6 @@
 name: Update Dalamud Plugin Repository
 
 on:
-  workflow_dispatch:
   push:
   schedule:
     - cron: '0 * * * *' # Run at the start of every hour
