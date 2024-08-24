@@ -5,18 +5,18 @@
         "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
         "Description": "",
         "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.4.3.1",
+        "AssemblyVersion": "1.4.4.0",
         "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.3.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.4.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.3.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.3.1/latest.zip",
-        "DownloadCount": 1089,
-        "LastUpdate": "1719027541"
+        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.4.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.4.4.0/latest.zip",
+        "DownloadCount": 1092,
+        "LastUpdate": "1724478458"
     },
     {
         "Author": "0x",
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 220,
+        "DownloadCount": 221,
         "LastUpdate": "1719026753"
     }
 ]
