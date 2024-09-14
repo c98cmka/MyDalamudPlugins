@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.jso
 
  下载失败可尝试github代理加速网站，例如
 ```
-https://gh.api.99988866.xyz/https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.json
+https://ghp.ci/https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/pluginmaster.json
 ```
 
 ## 仓库插件列表
