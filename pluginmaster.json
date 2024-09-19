@@ -1,25 +1,6 @@
 [
     {
         "Author": "0x",
-        "Name": "0xPvpPlugin",
-        "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
-        "Description": "",
-        "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.5.0.2",
-        "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
-        "DownloadCount": 111,
-        "LastUpdate": "1726569073"
-    },
-    {
-        "Author": "0x",
         "Name": "SkyEye",
         "Punchline": "Eureka\u4f18\u96f7\u5361\u96f7\u8fbe",
         "Description": "\u4f18\u96f7\u5361\u96f7\u8fbe\u3001\u5154\u5b50\u5b9d\u7bb1\u5b9a\u4f4d\u3001\u56fe\u5185\u52a0\u901f",
@@ -34,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v1.2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v1.2.1.0/latest.zip",
-        "DownloadCount": 239,
+        "DownloadCount": 240,
         "LastUpdate": "1719027541"
     },
     {
@@ -53,7 +34,26 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v1.0.0.0/latest.zip",
-        "DownloadCount": 268,
+        "DownloadCount": 271,
         "LastUpdate": "1719026753"
+    },
+    {
+        "Author": "0x",
+        "Name": "0xPvpPlugin",
+        "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
+        "Description": "",
+        "InternalName": "0xPvpPlugin",
+        "AssemblyVersion": "1.5.0.2",
+        "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
+        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.0.2/latest.zip",
+        "DownloadCount": 155,
+        "LastUpdate": "1726569073"
     }
 ]
