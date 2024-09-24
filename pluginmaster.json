@@ -41,19 +41,19 @@
         "Author": "0x",
         "Name": "0xPvpPlugin",
         "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
-        "Description": "",
+        "Description": "BUG\u8bf7\u63d0issue",
         "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.5.1.1",
+        "AssemblyVersion": "1.5.2.0",
         "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.1.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.1.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.1.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v1.5.2.0/latest.zip",
         "DownloadCount": 438,
-        "LastUpdate": "1726829238"
+        "LastUpdate": "1727180823"
     }
 ]
