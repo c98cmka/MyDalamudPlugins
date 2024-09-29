@@ -13,7 +13,7 @@ https://ghp.ci/https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/p
 
 ## 仓库插件列表
 
-| 名称 | 游戏版本 | TAG |
+| 名称 | 插件版本 | TAG |
 |----------|----------|----------|
 | [0xPvpPlugin](https://github.com/c98cmka/0xPvpPlugin) | 7.0 | Pvp |
 | [SkyEye](https://github.com/c98cmka/SkyEye) | 7.0 | Eureka |
