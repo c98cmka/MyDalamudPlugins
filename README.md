@@ -16,6 +16,6 @@ https://ghp.ci/https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/p
 | 名称 | 游戏版本 | TAG |
 |----------|----------|----------|
 | [0xPvpPlugin](https://github.com/c98cmka/0xPvpPlugin) | 7.0 | Pvp |
-| [SkyEye](https://github.com/c98cmka/SkyEye) | 6.58 | Eureka |
+| [SkyEye](https://github.com/c98cmka/SkyEye) | 7.0 | Eureka |
 | [Flash](https://github.com/c98cmka/Flash) | 7.0 | Movement |
 
