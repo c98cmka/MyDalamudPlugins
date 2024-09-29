@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v1.2.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v1.2.1.0/latest.zip",
-        "DownloadCount": 272,
+        "DownloadCount": 275,
         "LastUpdate": "1719027541"
     },
     {
@@ -34,26 +34,26 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 480,
+        "DownloadCount": 503,
         "LastUpdate": "1727440722"
     },
     {
         "Author": "0x",
         "Name": "0xPvpPlugin",
         "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
-        "Description": "",
+        "Description": "\u6709BUG\u8bf7\u63d0issue",
         "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "7.0.0.1",
+        "AssemblyVersion": "7.0.1.0",
         "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 1350,
-        "LastUpdate": "1727440722"
+        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.0/latest.zip",
+        "DownloadCount": 1482,
+        "LastUpdate": "1727611600"
     }
 ]
