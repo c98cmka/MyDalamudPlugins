@@ -2,7 +2,7 @@
   "Author": "0x",
   "Name": "0xPvpPlugin",
   "InternalName": "0xPvpPlugin",
-  "AssemblyVersion": "7.0.1.0",
+  "AssemblyVersion": "7.0.1.1",
   "Description": "有BUG请提issue",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
