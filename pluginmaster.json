@@ -34,8 +34,27 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 729,
+        "DownloadCount": 731,
         "LastUpdate": "1727440722"
+    },
+    {
+        "Author": "0x",
+        "Name": "SubmarineHelper",
+        "Punchline": "\u81ea\u52a8\u6536\u8247",
+        "Description": "",
+        "InternalName": "SubmarineHelper",
+        "AssemblyVersion": "7.0.1.0",
+        "RepoUrl": "https://github.com/c98cmka/SubmarineHelper",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://raw.githubusercontent.com/c98cmka/SubmarineHelper/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1728269678"
     },
     {
         "Author": "0x",
@@ -53,7 +72,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 3941,
+        "DownloadCount": 3962,
         "LastUpdate": "1728111887"
     }
 ]
