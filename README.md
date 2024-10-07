@@ -18,4 +18,5 @@ https://ghp.ci/https://raw.githubusercontent.com/c98cmka/MyDalamudPlugins/main/p
 | [0xPvpPlugin](https://github.com/c98cmka/0xPvpPlugin) | 7.0 | Pvp | 添加打断热键SHIFT |
 | [SkyEye](https://github.com/c98cmka/SkyEye) | 7.0 | Eureka | 适配7.0 |
 | [Flash](https://github.com/c98cmka/Flash) | 7.0 | Movement | 适配7.0 |
+| [SubmarineHelper](https://github.com/c98cmka/SubmarineHelper) | 7.0 | Submarine | 新增自动收艇 |
 
