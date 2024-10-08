@@ -2,7 +2,7 @@
   "Author": "0x",
   "Name": "SubmarineHelper",
   "InternalName": "SubmarineHelper",
-  "AssemblyVersion": "7.0.1.0",
+  "AssemblyVersion": "7.0.1.1",
   "Description": "点击 管理潜水艇 后显示UI。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/c98cmka/SubmarineHelper",
