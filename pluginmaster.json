@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "DownloadCount": 472,
+        "DownloadCount": 474,
         "LastUpdate": "1727611903"
     },
     {
@@ -34,14 +34,14 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 761,
+        "DownloadCount": 767,
         "LastUpdate": "1727440722"
     },
     {
         "Author": "0x",
         "Name": "SubmarineHelper",
         "Punchline": "\u81ea\u52a8\u6536\u8247",
-        "Description": "",
+        "Description": "\u70b9\u51fb \u7ba1\u7406\u6f5c\u6c34\u8247 \u540e\u663e\u793aUI\u3002",
         "InternalName": "SubmarineHelper",
         "AssemblyVersion": "7.0.1.0",
         "RepoUrl": "https://github.com/c98cmka/SubmarineHelper",
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.0/latest.zip",
-        "DownloadCount": 24,
+        "DownloadCount": 26,
         "LastUpdate": "1728269678"
     },
     {
@@ -72,7 +72,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 4219,
+        "DownloadCount": 4275,
         "LastUpdate": "1728111887"
     }
 ]
