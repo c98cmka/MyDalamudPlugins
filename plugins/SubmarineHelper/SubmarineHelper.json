@@ -3,7 +3,7 @@
   "Name": "SubmarineHelper",
   "InternalName": "SubmarineHelper",
   "AssemblyVersion": "7.0.1.0",
-  "Description": "",
+  "Description": "点击"管理潜水艇"后显示UI。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/c98cmka/SubmarineHelper",
   "DalamudApiLevel": 10,
