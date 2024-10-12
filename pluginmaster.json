@@ -15,8 +15,27 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 4771,
+        "DownloadCount": 4821,
         "LastUpdate": "1728111887"
+    },
+    {
+        "Author": "0x",
+        "Name": "SkyEye",
+        "Punchline": "Eureka\u4f18\u96f7\u5361\u96f7\u8fbe",
+        "Description": "\u4f18\u96f7\u5361\u96f7\u8fbe\u3001\u5154\u5b50\u5b9d\u7bb1\u5b9a\u4f4d\u3001\u56fe\u5185\u52a0\u901f",
+        "InternalName": "SkyEye",
+        "AssemblyVersion": "7.0.1.0",
+        "RepoUrl": "https://github.com/c98cmka/SkyEye",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://raw.githubusercontent.com/c98cmka/SkyEye/master/icon.png",
+        "DownloadLinkInstall": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
+        "DownloadCount": 506,
+        "LastUpdate": "1727611903"
     },
     {
         "Author": "0x",
@@ -34,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 94,
+        "DownloadCount": 103,
         "LastUpdate": "1728383769"
     },
     {
@@ -53,26 +72,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 819,
+        "DownloadCount": 830,
         "LastUpdate": "1727440722"
-    },
-    {
-        "Author": "0x",
-        "Name": "SkyEye",
-        "Punchline": "Eureka\u4f18\u96f7\u5361\u96f7\u8fbe",
-        "Description": "\u4f18\u96f7\u5361\u96f7\u8fbe\u3001\u5154\u5b50\u5b9d\u7bb1\u5b9a\u4f4d\u3001\u56fe\u5185\u52a0\u901f",
-        "InternalName": "SkyEye",
-        "AssemblyVersion": "7.0.1.0",
-        "RepoUrl": "https://github.com/c98cmka/SkyEye",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/c98cmka/SkyEye/master/icon.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "DownloadCount": 502,
-        "LastUpdate": "1727611903"
     }
 ]
