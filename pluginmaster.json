@@ -2,7 +2,7 @@
     {
         "Author": "0x",
         "Name": "0xPvpPlugin",
-        "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b",
+        "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b (\u5728\u7ebf\u5b89\u88c5Only)",
         "Description": "\u6709BUG\u8bf7\u63d0issue",
         "InternalName": "0xPvpPlugin",
         "AssemblyVersion": "7.0.1.5",
@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.5/latest.zip",
-        "DownloadCount": 10276,
+        "DownloadCount": 10318,
         "LastUpdate": "1729389385"
     },
     {
@@ -34,7 +34,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 227,
+        "DownloadCount": 228,
         "LastUpdate": "1728383769"
     },
     {
