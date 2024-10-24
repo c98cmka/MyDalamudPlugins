@@ -3,7 +3,7 @@
         "Author": "0x",
         "Name": "0xPvpPlugin",
         "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b (\u5728\u7ebf\u5b89\u88c5Only)",
-        "Description": "\u6709BUG\u8bf7\u63d0issue",
+        "Description": "",
         "InternalName": "0xPvpPlugin",
         "AssemblyVersion": "7.0.1.6",
         "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.6/latest.zip",
-        "DownloadCount": 11186,
+        "DownloadCount": 11206,
         "LastUpdate": "1729692822"
     },
     {
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 1034,
+        "DownloadCount": 1035,
         "LastUpdate": "1727440722"
     },
     {
