@@ -3,7 +3,7 @@
   "Name": "0xPvpPlugin",
   "InternalName": "0xPvpPlugin",
   "AssemblyVersion": "7.0.1.6",
-  "Description": "有BUG请提issue",
+  "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
   "DalamudApiLevel": 10,
