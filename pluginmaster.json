@@ -15,7 +15,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.7/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.7/latest.zip",
-        "DownloadCount": 13216,
+        "DownloadCount": 13453,
         "LastUpdate": "1729779461"
     },
     {
@@ -34,7 +34,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 264,
+        "DownloadCount": 272,
         "LastUpdate": "1728383769"
     },
     {
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 1079,
+        "DownloadCount": 1091,
         "LastUpdate": "1727440722"
     },
     {
@@ -72,7 +72,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "DownloadCount": 614,
+        "DownloadCount": 624,
         "LastUpdate": "1727611903"
     }
 ]
