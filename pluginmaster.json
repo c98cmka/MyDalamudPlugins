@@ -5,18 +5,18 @@
         "Punchline": "\u736d\u736d\u6218\u573a\u52a9\u624b (\u5728\u7ebf\u5b89\u88c5Only)",
         "Description": "",
         "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "7.0.1.9",
+        "AssemblyVersion": "7.0.2.0",
         "RepoUrl": "https://github.com/c98cmka/0xPvpPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/c98cmka/0xPvpPlugin/master/002914.png",
-        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.1.9/latest.zip",
-        "DownloadCount": 21054,
-        "LastUpdate": "1730813423"
+        "DownloadLinkTesting": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/c98cmka/0xPvpPlugin/releases/download/v7.0.2.0/latest.zip",
+        "DownloadCount": 21067,
+        "LastUpdate": "1733136745"
     },
     {
         "Author": "0x",
@@ -34,7 +34,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SubmarineHelper/releases/download/v7.0.1.1/latest.zip",
-        "DownloadCount": 520,
+        "DownloadCount": 521,
         "LastUpdate": "1728383769"
     },
     {
@@ -53,7 +53,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/Flash/releases/download/v7.0.0.1/latest.zip",
-        "DownloadCount": 1478,
+        "DownloadCount": 1483,
         "LastUpdate": "1727440722"
     },
     {
@@ -72,7 +72,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/c98cmka/SkyEye/releases/download/v7.0.1.0/latest.zip",
-        "DownloadCount": 796,
+        "DownloadCount": 799,
         "LastUpdate": "1727611903"
     }
 ]
